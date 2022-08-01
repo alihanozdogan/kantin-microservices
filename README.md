@@ -7,6 +7,5 @@ Mobil uygulama için herhangi bir şey yapılmadı.
 
 # Kaynak 
 Yardım alabileceğiniz en iyi kod aşağıdadır.
-https://github.com/dotnet-architecture/eShopOnContainers
 * [Kod](https://github.com/dotnet-architecture/eShopOnContainers)
 * [Kaynakça](https://docs.microsoft.com/tr-tr/dotnet/architecture/cloud-native/introduce-eshoponcontainers-reference-app)
